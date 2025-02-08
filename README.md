@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hiii, I'm Khushi Patel
 I’m a Future Software Engineer.<br>Studying Information Technology at Banasthali Vidyapith, India.<br>I’m currently learning about HTML, CSS, JS, C++, C, Python, Database Tools.<br>Currently trying to learn the new technologies.
 
 
